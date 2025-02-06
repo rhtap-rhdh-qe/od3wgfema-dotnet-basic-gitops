@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: od3wgfema-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/od3wgfema-dotnet-basic
